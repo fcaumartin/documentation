@@ -9,8 +9,21 @@ Le routeur fornis les fonctionnalités suivantes:
 - NAT
 
 
+```bash
+# exemple
+ls -l
+```
+
+
+
+![commentaire](screenshot1.png)
+
+
 ## Mise en place
 
 ### Etape 1
+
+
+
 
 
